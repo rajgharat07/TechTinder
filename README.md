@@ -94,6 +94,7 @@ TechTinder is a frontend application built using React and Vite to provide an in
 - /login - Login Page
 - /connections - Connections Page
 - /profile - Profile Page
+- /chat/:id - Chat Page
 
 ## State Management
 
